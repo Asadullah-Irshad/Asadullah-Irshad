@@ -1,11 +1,13 @@
-👋 Hi there, I am Asadullah Irshad!  
-👀 I am passionate about Python programming, Data Science, Machine Learning, and Artificial Intelligence. I enjoy exploring how these technologies can solve real-world problems, especially in healthcare and technology sectors.  
-🌱 I am refining my expertise in Python programming while building proficiency in data science and machine learning libraries such as TensorFlow, scikit-learn, and Keras. My goal is to deepen my understanding of AI and its applications.  
-👯 I am excited to collaborate on Python development projects, particularly those focused on data science and machine learning. I’m also open to projects that explore innovative AI-driven solutions.  
-🌟 One of my favorite projects is Multimodal Surgical Site Infection Detection, where I used machine learning techniques to significantly improve diagnostic accuracy. Check it out on my GitHub.  
-📫 Connect with me on LinkedIn https://www.linkedin.com/in/asadullahirshad/ or email me at asadullahirshad3@gmail.com.
+# 👋 Hi, I'm Asadullah Irshad!
 
+I am a **Data Science and Artificial Intelligence professional** with interests in **Machine Learning, Deep Learning, and AI-driven solutions**.
+🔬 My interests include **Artificial Intelligence, Machine Learning, Data Science, and Computer Vision**, with a focus on applying AI to real-world problems in healthcare, technology, and other data-driven domains.
+💻 I work primarily with **Python** and tools including **PyTorch, TensorFlow, scikit-learn, pandas, NumPy, and SQL**.
+📚 I enjoy developing research-oriented machine learning projects and exploring how AI can be used to build reliable and practical solutions.
+🌟 One of my research projects is **Multimodal Surgical Site Infection Detection**, where I explored machine learning approaches for detecting surgical site infections from multimodal data.
+🤝 I am open to **research collaborations, AI/ML projects, and opportunities involving data science and artificial intelligence**.
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/asadullahirshad/) or explore my projects and research repositories on GitHub.
 <!--
 Asadullah-Irshad/Asadullah-Irshad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+...
+-->
